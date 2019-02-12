@@ -1,0 +1,14 @@
+.card-header {
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.card-body {
+	text-align: center;
+}
+
+.new-account {
+	float: left;
+	margin-right:10px;
+}
